@@ -1,0 +1,49 @@
+.grid-container{
+    background-color: rgb(3, 12, 52);
+    height: 100px;
+    border: 3px solid white;
+}
+.grid-item{
+    color:antiquewhite;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    top:45%;
+}
+.grid1{
+    height: max-content;
+    width:500px;
+    padding-top: 2%;
+}
+.grid2{
+    color: rgb(240, 241, 243);
+    font-size: 70px;
+    font-weight: bolder;
+    margin-top: -39%;
+}
+p{
+    color: aliceblue;
+    font-size: larger;
+}
+.grid3{
+    margin-top: 20%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.grid4{
+    color: rgb(240, 241, 243);
+    font-size: 70px;
+    font-weight: bolder;
+    margin-top: -39%;
+}
+.grid5{
+    margin-top: 20%;
+    padding-top:6%;
+    padding-bottom:3%;
+}
+.grid6{
+    color: rgb(240, 241, 243);
+    font-size: 70px;
+    font-weight: bolder;
+    margin-top: -39%;
+}
